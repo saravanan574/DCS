@@ -1,0 +1,89 @@
+{
+  "HospitalData": [
+    {
+      "name": "Apollo Hospitals, Greams Road, Chennai",
+      "licenseId": "HSP/1001",
+      "email": "contact@apollohospitals.com"
+    },
+    {
+      "name": "Christian Medical College (CMC), Vellore",
+      "licenseId": "HSP/1002",
+      "email": "info@cmcvellore.ac.in"
+    },
+    {
+      "name": "Madras Medical College and Government General Hospital, Chennai",
+      "licenseId": "HSP/1003",
+      "email": "admin@mmc.ac.in"
+    },
+    {
+      "name": "Rajiv Gandhi Government General Hospital (RGGGH), Chennai",
+      "licenseId": "HSP/1004",
+      "email": "support@rgggh.tn.gov.in"
+    },
+    {
+      "name": "MIOT International, Chennai",
+      "licenseId": "HSP/1005",
+      "email": "info@miotinternational.com"
+    },
+    {
+      "name": "SRM Medical College Hospital and Research Centre, Kancheepuram",
+      "licenseId": "HSP/1006",
+      "email": "contact@srmist.edu.in"
+    },
+    {
+      "name": "Government Stanley Hospital, Chennai",
+      "licenseId": "HSP/1007",
+      "email": "support@stanleyhospital.tn.gov.in"
+    },
+    {
+      "name": "Meenakshi Mission Hospital and Research Centre, Madurai",
+      "licenseId": "HSP/1008",
+      "email": "info@mmhrc.in"
+    },
+    {
+      "name": "KMC Hospital, Manipal Hospitals, Chennai",
+      "licenseId": "HSP/1009",
+      "email": "chennai@manipalhospitals.com"
+    },
+    {
+      "name": "Government Rajaji Hospital (GRH), Madurai",
+      "licenseId": "HSP/1010",
+      "email": "admin@grhmadurai.tn.gov.in"
+    },
+    {
+      "name": "Global Hospital (Gleneagles), Chennai",
+      "licenseId": "HSP/1011",
+      "email": "info@gleneaglesglobalhospitals.com"
+    },
+    {
+      "name": "Coimbatore Medical College Hospital (CMCH), Coimbatore",
+      "licenseId": "HSP/1012",
+      "email": "admin@cmch.tn.gov.in"
+    },
+    {
+      "name": "Ganga Hospital, Coimbatore",
+      "licenseId": "HSP/1013",
+      "email": "contact@gangahospital.com"
+    },
+    {
+      "name": "Rela Hospital, Chennai",
+      "licenseId": "HSP/1014",
+      "email": "info@relahospital.com"
+    },
+    {
+      "name": "ABC Hospitals, Greams Road, India",
+      "licenseId": "HSP/1001",
+      "email": "saravanan.a2022@vit.student.ac.in"
+    },
+    {
+      "name": "XYZ Hospitals, Greams Road, Chennai",
+      "licenseId": "HSP/1001",
+      "email": "blessingbell574@gmail.com"
+    },
+    {
+      "name": "Sri Ramachandra Medical Centre (SRMC), Chennai",
+      "licenseId": "HSP/1015",
+      "email": "contact@sriramachandra.edu.in"
+    }
+  ]
+}

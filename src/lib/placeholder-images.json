@@ -1,0 +1,58 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero",
+      "description": "A symbolic image representing donation and help, with a red theme.",
+      "imageUrl": "/hero.jpg",
+      "imageHint": "charity donation"
+    },
+    {
+      "id": "hospital",
+      "description": "Hospital image for better experience.",
+      "imageUrl": "/hospital.jpg",
+      "imageHint": "Hospital donation"
+    },
+    {
+      "id": "about",
+      "description": "Hospital image for better experience.",
+      "imageUrl": "/awareness.jpg",
+      "imageHint": "Hospital donation"
+    },
+    {
+      "id": "donor",
+      "description": "Donor image for better experience.",
+      "imageUrl": "/donor.jpg",
+      "imageHint": "Donor donation"
+    },
+    {
+      "id": "bg",
+      "description": "A symbolic image representing donation and help, with a red theme.",
+      "imageUrl": "/bg.jpg",
+      "imageHint": "charity donation"
+    },
+    {
+      "id": "quick-requests",
+      "description": "An icon or image representing speed and urgency for blood requests.",
+      "imageUrl": "/bloodrequesst.jpg",
+      "imageHint": "phone screen"
+    },
+    {
+      "id": "track-organs",
+      "description": "An image representing tracking or availability of organs.",
+      "imageUrl": "/organ.jpg",
+      "imageHint": "doctor clipboard"
+    },
+    {
+      "id": "local-events",
+      "description": "An image of a community gathering for a donation event.",
+      "imageUrl": "/donation.webp",
+      "imageHint": "people volunteering"
+    },
+    {
+      "id": "about",
+      "description": "Team of medical professionals collaborating.",
+      "imageUrl": "https://picsum.photos/seed/about-us/800/600",
+      "imageHint": "medical team"
+    }
+  ]
+}
